@@ -83,7 +83,7 @@
 
 // Game has colors inlined in code.
 // For easier modification we collect them here:
-CRGBA MONEY_COLOR(89, 115, 150, 255);
+CRGBA MONEY_COLOR(32, 168, 72, 255);
 CRGBA AMMO_COLOR(0, 0, 0, 255);
 CRGBA HEALTH_COLOR(186, 101, 50, 255);
 CRGBA ARMOUR_COLOR(124, 140, 95, 255);
